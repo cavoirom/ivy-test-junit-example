@@ -95,6 +95,7 @@
               <outputDirectory>${basedir}/lib/test</outputDirectory>
               <stripVersion>true</stripVersion>
               <includeArtifactIds>
+                maven-model,
                 junit,
                 hamcrest-core,
                 spock-core,
