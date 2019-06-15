@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/test"/>
+	</contentEntry>
+	<lib name="junit.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/ivy-test-junit-example/lib/test/junit.jar!/"/>
+	</lib>
+	<lib name="hamcrest-core.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/ivy-test-junit-example/lib/test/hamcrest-core.jar!/"/>
+	</lib>
+	<lib name="spock-core.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/ivy-test-junit-example/lib/test/spock-core.jar!/"/>
+	</lib>
+	<lib name="ivy-test-runner.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/ivy-test-junit-example/lib/test/ivy-test-runner.jar!/"/>
+	</lib>
+</component>
