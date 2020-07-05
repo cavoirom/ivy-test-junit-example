@@ -15,8 +15,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="lib" path="lib/test/junit.jar"/>
 	<classpathentry kind="lib" path="lib/test/hamcrest-core.jar"/>
-	<classpathentry kind="lib" path="lib/test/spock-core.jar"/>
 	<classpathentry kind="lib" path="lib/test/ivy-test-runner.jar"/>
-	<classpathentry kind="lib" path="lib/test/maven-model.jar"/>
 	<classpathentry kind="output" path="classes"/>
 </classpath>
